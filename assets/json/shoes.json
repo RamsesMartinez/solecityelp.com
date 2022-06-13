@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "name": "Nike Dunk Low Essential Paisley",
+      "price": "$325.00 USD",
+      "image": "A1.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Championship Goldenrod (2021)",
+      "price": "$250.00 USD",
+      "image": "A2.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Championship Goldenrod (2021)",
+      "price": "300.00 USD",
+      "image": "A3.jpg"
+    },
+    {
+      "name": " Air Force 1 Low Supreme White",
+      "price": "$225.00 USD",
+      "image": "A4.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Harvest Moon (w)",
+      "price": "325.00  USD",
+      "image": "A5.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Union Passport Pack Argon",
+      "price": "450.00 USD",
+      "image": "A6.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Pink Velvet (GS)",
+      "price": "$350.00 USD",
+      "image": "A7.jpg"
+    },
+    {
+      "name": "Nike Dunk Low White Black (2021)",
+      "price": "$375.00 USD",
+      "image": "A8.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Championship Court Purple",
+      "price": "$325.00 USD",
+      "image": "A9.jpg"
+    },
+    {
+      "name": "Nike Dunk Low Championship Red (2021)",
+      "price": "$350.00 USD",
+      "image": "A91.jpg"
+    },
+    {
+      "name": "Nike Air Force 1 Low White ‘07",
+      "price": "$140.00 USD",
+      "image": "A92.jpg"
+    },
+    {
+      "name": "Jordan 1 Mid Diamonds Shorts",
+      "price": "$250.00 USD",
+      "image": "A93.jpg"
+    },
+    {
+      "name": "Jordan 4 Retro White Oreo (2021) (GS)",
+      "price": "$500.00 USD",
+      "image": "A94.jpg"
+    },
+    {
+      "name": "Jordan 4 Retro Fire Red (2020)",
+      "price": "$500.00 USD",
+      "image": "A95.jpg"
+    },
+    {
+      "name": "Jordan 1 Mid UNC (2022) (W)",
+      "price": "$250.00 USD",
+      "image": "A96.jpg"
+    },
+    {
+      "name": "Jordan 1 low Bred Toe",
+      "price": "$250.00 USD",
+      "image": "A98.jpg"
+    },
+    {
+      "name": "Jordan 1 Retro High Shadow 2.0",
+      "price": "$250.00 USD",
+      "image": "A99.jpg"
+    },
+    {
+      "name": "Jordan 11 Retro Cool Grey (2021)",
+      "price": "$400.00 USD",
+      "image": "A991.jpg"
+    },
+    {
+      "name": "Jordan 3 Retro A Ma Maniere (W)",
+      "price": "$1,000.00 USD",
+      "image": "A992.jpg"
+    },
+    {
+      "name": "Jordan 1 Retro High White University Blue Black",
+      "price": "$525.00 USD",
+      "image": "A993.jpg"
+    },
+    {
+      "name": "Yeezy Slide Pure (Restock Pair)",
+      "price": "$225.00 USD",
+      "image": "A994.jpg"
+    }
+  ]
+}

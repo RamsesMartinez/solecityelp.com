@@ -1,5 +1,5 @@
 {
-  "name": "basic-template-TailwindCSS",
+  "name": "solecity",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tailwindcss": "^1.7.6"
+    "tailwindcss": "^1.9.6"
   }
 }
