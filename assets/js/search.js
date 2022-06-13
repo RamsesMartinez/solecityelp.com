@@ -13,7 +13,7 @@ async function search() {
     const list = data["data"]
     const options = {
         // includeScore: true,
-        threshold: 0.35,
+        threshold: 0.25,
         // Search in `author` and in `tags` array
         keys: ['name', 'price']
     }
